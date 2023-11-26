@@ -56,7 +56,6 @@ int main() {
             break;
         default:
             std::cout << "Invalid Input" << std::endl;
-            break;
     }
     std::cout << "Program End Successfully";
     return 0;
