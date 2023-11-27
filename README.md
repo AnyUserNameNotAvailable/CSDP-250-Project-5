@@ -16,3 +16,6 @@ TO COMPILE:
     clang++ main.cpp BinaryTree.cpp -o main
   TO RUN:
     ./main
+
+input: random list of numbers
+output: inorder and postorder search tree, if the is avl tree
